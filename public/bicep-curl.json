@@ -1,0 +1,7 @@
+{
+    "id": "bicep-curl",
+    "imageUrl": "http://localhost:3000/bicep-curl.gif",
+    "description": "Bring the dumbbell up to your shoulder, from your thigh, locking your elbow tight to your side.",
+    "musclesWorked": "bicep",
+    "bodyGroup": "upper"
+}

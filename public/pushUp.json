@@ -1,0 +1,7 @@
+{
+    "id": "push-up",
+    "imageUrl": "http://localhost:3000/push-up.gif",
+    "description": "Raising and lowering the body using the arms",
+    "musclesWorked": "pectoral muscles, triceps, and anterior deltoids",
+    "bodyGroup": "upper"
+}
